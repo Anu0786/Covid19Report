@@ -1,12 +1,12 @@
 # Covid19 Report
-The Covid19 Report: collects information worldwide novel coronavirus , providing worldwide report .
-This App also show the data basis of Country with the help of Line Graph.
-we can also filter the data basis of week or month.
+The Covid19 Report: collects WorldWide information about novel coronavirus ,providing worldwide report .
+This App also show the data on the basis of Country with the help of Line Graph.
+We can also filter as per week or month.
 
 Live Demo: https://mysterious-gorge-50151.herokuapp.com/
 
-#further updates;
-work on UI
+# further updates:
+Work on UI
 Add more filter 
 
 
