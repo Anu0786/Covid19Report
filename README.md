@@ -1,3 +1,15 @@
+# Covid19 Report
+The Covid19 Report: collects information worldwide novel coronavirus , providing worldwide report .
+This App also show the data basis of Country with the help of Line Graph.
+we can also filter the data basis of week or month.
+
+Live Demo: https://mysterious-gorge-50151.herokuapp.com/
+
+#further updates;
+work on UI
+Add more filter 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
